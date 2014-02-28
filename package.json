@@ -3,7 +3,7 @@
   "theme": "syntax",
   "version": "0.1.0",
   "private": false,
-  "description": "Easyballs theme, adjusted with missing Atom-specific markup: http://tmtheme-editor.herokuapp.com/#/theme/EasyBalls",
+  "description": "Easyballs theme, adjusted with missing Atom-specific markup.",
   "repository": "https://github.com/dncrews/atom-easyballs-theme",
   "license": "MIT",
   "engines": {
