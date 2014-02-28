@@ -1,7 +1,7 @@
 {
   "name": "Easyballs Theme",
   "theme": "syntax",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "private": false,
   "description": "Easyballs theme, adjusted with missing Atom-specific markup: http://tmtheme-editor.herokuapp.com/#/theme/EasyBalls",
   "repository": "https://github.com/dncrews/atom-easyballs-theme",
