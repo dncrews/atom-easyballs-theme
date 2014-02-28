@@ -1,10 +1,10 @@
 {
-  "name": "Easyballs Theme",
+  "name": "Atom Easyballs Theme",
   "theme": "syntax",
   "version": "1.0.0",
   "private": false,
   "description": "Easyballs theme, adjusted with missing Atom-specific markup: http://tmtheme-editor.herokuapp.com/#/theme/EasyBalls",
-  "repository": "https://github.com/atom/easyballs",
+  "repository": "https://github.com/dncrews/atom-easyballs-theme",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"

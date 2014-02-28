@@ -1,3 +1,3 @@
-# easyballs theme
+# Easyballs Theme for [Atom](https://atom.io)
 
-A short description of your theme.
+[Easyballs theme](http://tmtheme-editor.herokuapp.com/#/theme/EasyBalls), adjusted with missing Atom-specific markup.
