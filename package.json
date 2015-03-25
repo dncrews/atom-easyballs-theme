@@ -2,11 +2,10 @@
   "name": "easyballs-theme",
   "theme": "syntax",
   "version": "0.4.2",
-  "private": false,
   "description": "Easyballs theme, adjusted with missing Atom-specific markup.",
   "repository": "https://github.com/dncrews/atom-easyballs-theme",
   "license": "MIT",
   "engines": {
-    "atom": ">0.50.0"
+    "atom": ">=0.174.0 <2.0.0"
   }
 }
