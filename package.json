@@ -1,7 +1,7 @@
 {
   "name": "easyballs-theme",
   "theme": "syntax",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "Easyballs theme, adjusted with missing Atom-specific markup.",
   "repository": "https://github.com/dncrews/atom-easyballs-theme",
   "license": "MIT",
